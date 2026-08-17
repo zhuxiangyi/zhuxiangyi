@@ -1,33 +1,20 @@
-# Hi there 👋
+# Hi 👋 I'm Xiangyi
 
-I'm Xiangyi Zhu.
+**Big Data Engineer · Open Source Contributor**
 
-- Apache Paimon Contributor
-- Open Source Enthusiast
-- Big Data Engineer
-- Interested in Data Infrastructure and Storage Systems
+🔭 Working on Data Infrastructure  
+🌱 Learning Database Internals & Distributed Systems  
+💻 Java / Scala / Python  
 
-## 🚀 Open Source
+### Tech Stack
 
-- Apache Paimon
-- Apache Hadoop
-- Apache Auron
+Java · Scala · Python 
+Hadoop · Spark · Paimon · Iceberg 
 
-## 📊 GitHub Stats
+### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhuxiangyi&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhuxiangyi&layout=compact&hide_border=true" height="165"/>
-</p>
+[GitHub Stats] [Top Languages]
 
-## 🔥 Contribution Streak
+### Featured Projects
 
-<img src="https://streak-stats.demolab.com/?user=zhuxiangyi&hide_border=true" />
-
-## 🛠️ Technologies
-
-Java · Scala · Python · SQL · Spark · Flink · Hive · Paimon · Iceberg · Hadoop
-
-## 📫 Connect
-
-- GitHub: https://github.com/zhuxiangyi
+[Apache Paimon] [Apache Iceberg] [Apache Spark]
